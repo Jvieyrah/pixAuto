@@ -1,0 +1,16 @@
+#Mon Jan 15 23:05:11 BRT 2024
+configuration*?=863E2DB94D25AD2218C32586846BFD04E67F3560
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/CodigosDeRetorno.java=1690421737919
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroSaldoInsuficiente.java=1690422458639
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ProcessadorDePix.java=1690423506799
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/Principal.java=1690422201926
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroValorNaoPositivo.java=1690422464800
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroChaveEmBranco.java=1690422238004
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroChaveNaoEncontrada.java=1690422386811
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/Mensagens.java=1690422411123
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/Conexao.java=1690421747408
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroDePix.java=1690422442372
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ControladorDePix.java=1690421757117
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/Servidor.java=1690422213576
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ErroInterno.java=1690422451377
+/home/joao/Documents/trybe/java/acc-java-010-exercises-simulador-de-pix/src/main/java/com/trybe/simuladordepix/ServidorFake.java=1690422225090
